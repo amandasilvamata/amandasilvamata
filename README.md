@@ -10,8 +10,8 @@
   你好! Eu sou a Amanda<br>
   💻 Engenharia de Software <br>
   🎨 Amo criar coisas bonitas e funcionais <br>
-  🌱 Sempre aprendendo novas tecnologias <br>
-  🩷 Gosto de design, café e filmes antigos
+  🌱 Sempre aprendendo <br>
+  🩷 Gosto de novas tecnologias e filmes antigos
 </p>
 
 ---
